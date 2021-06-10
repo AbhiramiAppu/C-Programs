@@ -1,0 +1,7 @@
+21:18:39 **** Incremental Build of configuration Debug for project assignment Array prgm using Function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment Array prgm using Function.o" "..\\src\\assignment Array prgm using Function.c" 
+gcc -o "assignment Array prgm using Function.exe" "src\\assignment Array prgm using Function.o" 
+
+21:18:40 Build Finished. 0 errors, 0 warnings. (took 1s.51ms)
+

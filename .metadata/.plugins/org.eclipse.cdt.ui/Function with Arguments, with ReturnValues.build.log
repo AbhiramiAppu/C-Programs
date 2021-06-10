@@ -1,0 +1,7 @@
+00:49:25 **** Incremental Build of configuration Debug for project Function with Arguments, with ReturnValues ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Function with Arguments, with ReturnValues.o" "..\\src\\Function with Arguments, with ReturnValues.c" 
+gcc -o "Function with Arguments, with ReturnValues.exe" "src\\Function with Arguments, with ReturnValues.o" 
+
+00:49:26 Build Finished. 0 errors, 0 warnings. (took 665ms)
+

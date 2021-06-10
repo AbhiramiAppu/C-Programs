@@ -1,0 +1,7 @@
+00:50:40 **** Incremental Build of configuration Debug for project Studyprgm1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Studyprgm1.o" "..\\src\\Studyprgm1.c" 
+gcc -o Studyprgm1.exe "src\\Studyprgm1.o" 
+
+00:50:41 Build Finished. 0 errors, 0 warnings. (took 761ms)
+

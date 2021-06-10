@@ -1,0 +1,7 @@
+00:05:38 **** Incremental Build of configuration Debug for project Array Sample ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Sample.o" "..\\src\\Array Sample.c" 
+gcc -o "Array Sample.exe" "src\\Array Sample.o" 
+
+00:05:39 Build Finished. 0 errors, 0 warnings. (took 740ms)
+

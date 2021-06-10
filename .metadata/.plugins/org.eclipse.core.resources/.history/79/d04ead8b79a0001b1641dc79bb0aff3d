@@ -1,0 +1,24 @@
+/*
+ ============================================================================
+ Name        : Studyprgm1.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int i;
+	setbuf(stdout,NULL);
+	if(i%3==0 && i%5==0){
+		printf("%d -BingBong",i);
+	}else{
+		printf("%d",i);
+	}
+	 /* prints !!!Hello World!!! */
+	return EXIT_SUCCESS;
+}

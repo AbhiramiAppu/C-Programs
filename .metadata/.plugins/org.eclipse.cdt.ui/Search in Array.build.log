@@ -1,0 +1,7 @@
+02:56:14 **** Incremental Build of configuration Debug for project Search in Array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Search in Array.o" "..\\src\\Search in Array.c" 
+gcc -o "Search in Array.exe" "src\\Search in Array.o" 
+
+02:56:15 Build Finished. 0 errors, 0 warnings. (took 726ms)
+

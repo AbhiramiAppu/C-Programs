@@ -1,0 +1,7 @@
+02:20:43 **** Incremental Build of configuration Debug for project assignment sum of 2num ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment sum of 2num.o" "..\\src\\assignment sum of 2num.c" 
+gcc -o "assignment sum of 2num.exe" "src\\assignment sum of 2num.o" 
+
+02:20:44 Build Finished. 0 errors, 0 warnings. (took 833ms)
+

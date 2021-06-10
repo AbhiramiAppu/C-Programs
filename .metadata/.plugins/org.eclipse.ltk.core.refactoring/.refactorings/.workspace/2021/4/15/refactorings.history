@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;character&apos; to &apos;assignment character&apos;" description="Rename resource &apos;character&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/character" name="assignment character" stamp="1617830342965" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;Else ifLadder BasicMathsChoice&apos;" deleteContents="false" description="Delete resource &apos;Else ifLadder BasicMathsChoice&apos;" element1="/Else ifLadder BasicMathsChoice" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1617979026866"/>
+</session>

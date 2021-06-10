@@ -1,0 +1,25 @@
+/*
+ ============================================================================
+ Name        : Fibanocci.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int i,fib=0,num;
+	setbuf(stdout,NULL);
+	printf("Enter the number : "); /* prints !!!Hello World!!! */
+	scanf("%d",&num);
+	printf("The fibanocci series of a number is : ");
+	for(i=0;i<num;i++){
+		fib = i + fib;
+		printf("%d ",fib);
+	}
+	return EXIT_SUCCESS;
+}

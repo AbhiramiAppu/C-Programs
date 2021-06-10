@@ -1,0 +1,7 @@
+02:42:55 **** Incremental Build of configuration Debug for project assignment simple interest ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment simple interest.o" "..\\src\\assignment simple interest.c" 
+gcc -o "assignment simple interest.exe" "src\\assignment simple interest.o" 
+
+02:42:56 Build Finished. 0 errors, 0 warnings. (took 856ms)
+

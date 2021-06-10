@@ -1,0 +1,7 @@
+00:18:49 **** Incremental Build of configuration Debug for project Armstrong or Not ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Armstrong or Not.o" "..\\src\\Armstrong or Not.c" 
+gcc -o "Armstrong or Not.exe" "src\\Armstrong or Not.o" 
+
+00:18:49 Build Finished. 0 errors, 0 warnings. (took 659ms)
+

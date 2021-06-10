@@ -1,0 +1,5 @@
+03:12:02 **** Incremental Build of configuration Debug for project assignmment Addition of two MultiDimen Array ****
+Info: Internal Builder is used for build
+gcc -o "assignmment Addition of two MultiDimen Array.exe" "src\\Addition of two MultiDimen Array.o" 
+C:/x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assignmment Addition of two MultiDimen Array.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status

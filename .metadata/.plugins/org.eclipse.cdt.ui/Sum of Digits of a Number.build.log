@@ -1,0 +1,7 @@
+01:10:53 **** Incremental Build of configuration Debug for project Sum of Digits of a Number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sum of Digits of a Number.o" "..\\src\\Sum of Digits of a Number.c" 
+gcc -o "Sum of Digits of a Number.exe" "src\\Sum of Digits of a Number.o" 
+
+01:10:54 Build Finished. 0 errors, 0 warnings. (took 730ms)
+

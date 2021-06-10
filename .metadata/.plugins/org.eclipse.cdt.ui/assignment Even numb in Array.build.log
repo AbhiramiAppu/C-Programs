@@ -1,0 +1,7 @@
+00:37:50 **** Incremental Build of configuration Debug for project assignment Even numb in Array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment Even numb in Array.o" "..\\src\\assignment Even numb in Array.c" 
+gcc -o "assignment Even numb in Array.exe" "src\\assignment Even numb in Array.o" 
+
+00:37:51 Build Finished. 0 errors, 0 warnings. (took 761ms)
+

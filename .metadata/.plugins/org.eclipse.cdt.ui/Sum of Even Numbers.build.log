@@ -1,0 +1,7 @@
+19:40:16 **** Incremental Build of configuration Debug for project Sum of Even Numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sum of Even Numbers.o" "..\\src\\Sum of Even Numbers.c" 
+gcc -o "Sum of Even Numbers.exe" "src\\Sum of Even Numbers.o" 
+
+19:40:17 Build Finished. 0 errors, 0 warnings. (took 684ms)
+

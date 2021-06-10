@@ -1,0 +1,44 @@
+00:50:14 **** Incremental Build of configuration Debug for project Studyprgm Vowels in String ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Studyprgm Vowels in String.o" "..\\src\\Studyprgm Vowels in String.c" 
+..\src\Studyprgm Vowels in String.c: In function 'main':
+..\src\Studyprgm Vowels in String.c:21:12: warning: array subscript has type 'char' [-Wchar-subscripts]
+  while(name[length] != '\0'){
+            ^
+..\src\Studyprgm Vowels in String.c:27:10: warning: array subscript has type 'char' [-Wchar-subscripts]
+   if(name[i] == 'a' || name[i] == 'A' || name[i] == 'e' || name[i] == 'E' || name[i] == 'i' || name[i] == 'I' || name[i] == 'o' || name[i] == 'O' || name[i] == 'u' || name[i] == 'U'){
+          ^
+..\src\Studyprgm Vowels in String.c:27:28: warning: array subscript has type 'char' [-Wchar-subscripts]
+   if(name[i] == 'a' || name[i] == 'A' || name[i] == 'e' || name[i] == 'E' || name[i] == 'i' || name[i] == 'I' || name[i] == 'o' || name[i] == 'O' || name[i] == 'u' || name[i] == 'U'){
+                            ^
+..\src\Studyprgm Vowels in String.c:27:46: warning: array subscript has type 'char' [-Wchar-subscripts]
+   if(name[i] == 'a' || name[i] == 'A' || name[i] == 'e' || name[i] == 'E' || name[i] == 'i' || name[i] == 'I' || name[i] == 'o' || name[i] == 'O' || name[i] == 'u' || name[i] == 'U'){
+                                              ^
+..\src\Studyprgm Vowels in String.c:27:64: warning: array subscript has type 'char' [-Wchar-subscripts]
+   if(name[i] == 'a' || name[i] == 'A' || name[i] == 'e' || name[i] == 'E' || name[i] == 'i' || name[i] == 'I' || name[i] == 'o' || name[i] == 'O' || name[i] == 'u' || name[i] == 'U'){
+                                                                ^
+..\src\Studyprgm Vowels in String.c:27:82: warning: array subscript has type 'char' [-Wchar-subscripts]
+   if(name[i] == 'a' || name[i] == 'A' || name[i] == 'e' || name[i] == 'E' || name[i] == 'i' || name[i] == 'I' || name[i] == 'o' || name[i] == 'O' || name[i] == 'u' || name[i] == 'U'){
+                                                                                  ^
+..\src\Studyprgm Vowels in String.c:27:100: warning: array subscript has type 'char' [-Wchar-subscripts]
+   if(name[i] == 'a' || name[i] == 'A' || name[i] == 'e' || name[i] == 'E' || name[i] == 'i' || name[i] == 'I' || name[i] == 'o' || name[i] == 'O' || name[i] == 'u' || name[i] == 'U'){
+                                                                                                    ^
+..\src\Studyprgm Vowels in String.c:27:118: warning: array subscript has type 'char' [-Wchar-subscripts]
+   if(name[i] == 'a' || name[i] == 'A' || name[i] == 'e' || name[i] == 'E' || name[i] == 'i' || name[i] == 'I' || name[i] == 'o' || name[i] == 'O' || name[i] == 'u' || name[i] == 'U'){
+                                                                                                                      ^
+..\src\Studyprgm Vowels in String.c:27:136: warning: array subscript has type 'char' [-Wchar-subscripts]
+   if(name[i] == 'a' || name[i] == 'A' || name[i] == 'e' || name[i] == 'E' || name[i] == 'i' || name[i] == 'I' || name[i] == 'o' || name[i] == 'O' || name[i] == 'u' || name[i] == 'U'){
+                                                                                                                                        ^
+..\src\Studyprgm Vowels in String.c:27:154: warning: array subscript has type 'char' [-Wchar-subscripts]
+   if(name[i] == 'a' || name[i] == 'A' || name[i] == 'e' || name[i] == 'E' || name[i] == 'i' || name[i] == 'I' || name[i] == 'o' || name[i] == 'O' || name[i] == 'u' || name[i] == 'U'){
+                                                                                                                                                          ^
+..\src\Studyprgm Vowels in String.c:27:172: warning: array subscript has type 'char' [-Wchar-subscripts]
+   if(name[i] == 'a' || name[i] == 'A' || name[i] == 'e' || name[i] == 'E' || name[i] == 'i' || name[i] == 'I' || name[i] == 'o' || name[i] == 'O' || name[i] == 'u' || name[i] == 'U'){
+                                                                                                                                                                            ^
+..\src\Studyprgm Vowels in String.c:28:23: warning: array subscript has type 'char' [-Wchar-subscripts]
+     printf("%c\t",name[i]);
+                       ^
+gcc -o "Studyprgm Vowels in String.exe" "src\\Studyprgm Vowels in String.o" 
+
+00:50:15 Build Finished. 0 errors, 12 warnings. (took 1s.16ms)
+

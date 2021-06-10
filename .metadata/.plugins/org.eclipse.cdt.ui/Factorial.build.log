@@ -1,0 +1,7 @@
+01:47:49 **** Incremental Build of configuration Debug for project Factorial ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Factorial.o" "..\\src\\Factorial.c" 
+gcc -o Factorial.exe "src\\Factorial.o" 
+
+01:47:50 Build Finished. 0 errors, 0 warnings. (took 922ms)
+

@@ -1,0 +1,7 @@
+00:53:52 **** Incremental Build of configuration Debug for project assignment Descending order ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment Descending order.o" "..\\src\\assignment Descending order.c" 
+gcc -o "assignment Descending order.exe" "src\\assignment Descending order.o" 
+
+00:53:52 Build Finished. 0 errors, 0 warnings. (took 637ms)
+

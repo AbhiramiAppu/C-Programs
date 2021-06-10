@@ -1,0 +1,7 @@
+23:48:38 **** Incremental Build of configuration Debug for project assignment sum of odd nums ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment sum of odd nums.o" "..\\src\\assignment sum of odd nums.c" 
+gcc -o "assignment sum of odd nums.exe" "src\\assignment sum of odd nums.o" 
+
+23:48:39 Build Finished. 0 errors, 0 warnings. (took 802ms)
+

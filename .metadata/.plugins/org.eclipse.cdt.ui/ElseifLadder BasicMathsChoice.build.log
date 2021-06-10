@@ -1,0 +1,6 @@
+22:24:42 **** Incremental Build of configuration Debug for project ElseifLadder BasicMathsChoice ****
+Info: Internal Builder is used for build
+gcc -o "ElseifLadder BasicMathsChoice.exe" "src\\ElseifLadder BasicMathsChoice.o" 
+
+22:24:45 Build Finished. 0 errors, 0 warnings. (took 2s.702ms)
+

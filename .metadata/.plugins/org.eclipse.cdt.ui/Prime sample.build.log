@@ -1,0 +1,7 @@
+20:18:07 **** Incremental Build of configuration Debug for project Prime sample ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Prime sample.o" "..\\src\\Prime sample.c" 
+gcc -o "Prime sample.exe" "src\\Prime sample.o" 
+
+20:18:08 Build Finished. 0 errors, 0 warnings. (took 736ms)
+
